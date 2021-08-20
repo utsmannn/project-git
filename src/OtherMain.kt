@@ -1,0 +1,5 @@
+
+
+fun otherMain() {
+    // another main
+}
