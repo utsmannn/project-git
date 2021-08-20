@@ -4,4 +4,5 @@ fun main() {
     
 }
 
-//menambahkan komentar dari rendi
+//menambahkan komentar dari rendi...
+//komentar kedua....
